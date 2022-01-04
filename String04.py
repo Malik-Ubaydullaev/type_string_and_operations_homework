@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    answer = "s"
+    answer = "\"s\""
     return answer
