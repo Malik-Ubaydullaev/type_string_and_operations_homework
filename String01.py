@@ -5,4 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    answer = "12345678"
+    return answer
